@@ -6,7 +6,7 @@ new fullpage('#fullpage', {
     showActiveTooltip: true,
     scrollingSpeed: 1000,
     // dragAndMove: true,
-    responsiveWidth: 800,
+    responsiveWidth: 1000,
     scrollOverflow: true,
     css3:false
 })
